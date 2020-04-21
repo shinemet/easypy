@@ -1,3 +1,5 @@
+This repository will no longer be maintained. Please use https://github.com/real-easypy/easypy instead.
+
 [![Build Status](https://api.travis-ci.org/weka-io/easypy.svg?branch=master)](https://travis-ci.org/weka-io/easypy)
 [![Documentation](https://img.shields.io/badge/api-sphinx-blue.svg)](https://weka-io.github.io/easypy/)
 
